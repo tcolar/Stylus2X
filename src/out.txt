@@ -1,0 +1,873 @@
+Touch driver open
+Touch calibration
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
++---------------------------------------------------------------+
+|bash-2.05a#                                                    |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
++---------------------------------------------------------------+
+
+value.pressure 0
+value.x -18
+value.y 253
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 45191
+value.x 93
+value.y 208
++---------------------------------------------------------------+
+|bash-2.05a# f                                                  |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
++---------------------------------------------------------------+
+
+Got key:  f
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+isalive() encountered condition where terminated is 0 ...
+isalive() encountered condition where terminated is 0 ...
+value.pressure 45196
+value.x 287
+value.y 180
++---------------------------------------------------------------+
+|bash-2.05a#                                                    |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
++---------------------------------------------------------------+
+
+Got key:  
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 45174
+value.x 70
+value.y 210
++---------------------------------------------------------------+
+|bash-2.05a# d                                                  |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
++---------------------------------------------------------------+
+
+Got key:  d
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 45188
+value.x 91
+value.y 207
++---------------------------------------------------------------+
+|bash-2.05a# df                                                 |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
++---------------------------------------------------------------+
+
+Got key:  f
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+isalive() encountered condition where terminated is 0 ...
+isalive() encountered condition where terminated is 0 ...
+value.pressure 45189
+value.x 155
+value.y 207
++---------------------------------------------------------------+
+|bash-2.05a# dfj                                                |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
++---------------------------------------------------------------+
+
+Got key:  j
+isalive() encountered condition where terminated is 0 ...
+value.pressure 45184
+value.x 137
+value.y 207
+Got key:  h
++---------------------------------------------------------------+
+|bash-2.05a# dfjh                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
++---------------------------------------------------------------+
+
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+isalive() encountered condition where terminated is 0 ...
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 45209
+value.x 281
+value.y 176
++---------------------------------------------------------------+
+|bash-2.05a# dfj                                                |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
++---------------------------------------------------------------+
+
+Got key:  
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 45212
+value.x 281
+value.y 178
++---------------------------------------------------------------+
+|bash-2.05a# df                                                 |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
++---------------------------------------------------------------+
+
+Got key:  
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 45193
+value.x 272
+value.y 207
++---------------------------------------------------------------+
+|bash-2.05a# df                                                 |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
++---------------------------------------------------------------+
+
+Got key:  
+
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
++---------------------------------------------------------------+
+|bash-2.05a# df                                                 |
+|Filesystem           1k-blocks      Used Available Use% Mounted|
+| on                                                            |
+|rootfs                   63472     47852     15620  75% /      |
+|/dev/root                63472     47852     15620  75% /      |
+|none                      5120         4      5116   0% /tmp   |
+|/dev/mmcsd/disc0/part1   3971584   3304480    667104  83% /tmp/|
+|mnt/sd                                                         |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
++---------------------------------------------------------------+
+
+value.pressure 0
+value.x -18
+value.y 253
+isalive() encountered condition where terminated is 0 ...
++---------------------------------------------------------------+
+|bash-2.05a# df                                                 |
+|Filesystem           1k-blocks      Used Available Use% Mounted|
+| on                                                            |
+|rootfs                   63472     47852     15620  75% /      |
+|/dev/root                63472     47852     15620  75% /      |
+|none                      5120         4      5116   0% /tmp   |
+|/dev/mmcsd/disc0/part1   3971584   3304480    667104  83% /tmp/|
+|mnt/sd                                                         |
+|bash-2.05a#                                                    |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
++---------------------------------------------------------------+
+
+value.pressure 0
+value.x -18
+value.y 253
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+isalive() encountered condition where terminated is 0 ...
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 45191
+value.x 197
+value.y 209
++---------------------------------------------------------------+
+|bash-2.05a# df                                                 |
+|Filesystem           1k-blocks      Used Available Use% Mounted|
+| on                                                            |
+|rootfs                   63472     47852     15620  75% /      |
+|/dev/root                63472     47852     15620  75% /      |
+|none                      5120         4      5116   0% /tmp   |
+|/dev/mmcsd/disc0/part1   3971584   3304480    667104  83% /tmp/|
+|mnt/sd                                                         |
+|bash-2.05a# l                                                  |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
++---------------------------------------------------------------+
+
+Got key:  l
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 45195
+value.x 51
+value.y 207
+Got key:  s
++---------------------------------------------------------------+
+|bash-2.05a# df                                                 |
+|Filesystem           1k-blocks      Used Available Use% Mounted|
+| on                                                            |
+|rootfs                   63472     47852     15620  75% /      |
+|/dev/root                63472     47852     15620  75% /      |
+|none                      5120         4      5116   0% /tmp   |
+|/dev/mmcsd/disc0/part1   3971584   3304480    667104  83% /tmp/|
+|mnt/sd                                                         |
+|bash-2.05a# ls                                                 |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
++---------------------------------------------------------------+
+
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 45202
+value.x 145
+value.y 231
++---------------------------------------------------------------+
+|bash-2.05a# df                                                 |
+|Filesystem           1k-blocks      Used Available Use% Mounted|
+| on                                                            |
+|rootfs                   63472     47852     15620  75% /      |
+|/dev/root                63472     47852     15620  75% /      |
+|none                      5120         4      5116   0% /tmp   |
+|/dev/mmcsd/disc0/part1   3971584   3304480    667104  83% /tmp/|
+|mnt/sd                                                         |
+|bash-2.05a# ls                                                 |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
++---------------------------------------------------------------+
+
+Got key:   
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+isalive() encountered condition where terminated is 0 ...
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 45204
+value.x 242
+value.y 182
++---------------------------------------------------------------+
+|bash-2.05a# df                                                 |
+|Filesystem           1k-blocks      Used Available Use% Mounted|
+| on                                                            |
+|rootfs                   63472     47852     15620  75% /      |
+|/dev/root                63472     47852     15620  75% /      |
+|none                      5120         4      5116   0% /tmp   |
+|/dev/mmcsd/disc0/part1   3971584   3304480    667104  83% /tmp/|
+|mnt/sd                                                         |
+|bash-2.05a# ls -                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
++---------------------------------------------------------------+
+
+Got key:  -
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+isalive() encountered condition where terminated is 0 ...
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 45196
+value.x 197
+value.y 208
++---------------------------------------------------------------+
+|bash-2.05a# df                                                 |
+|Filesystem           1k-blocks      Used Available Use% Mounted|
+| on                                                            |
+|rootfs                   63472     47852     15620  75% /      |
+|/dev/root                63472     47852     15620  75% /      |
+|none                      5120         4      5116   0% /tmp   |
+|/dev/mmcsd/disc0/part1   3971584   3304480    667104  83% /tmp/|
+|mnt/sd                                                         |
+|bash-2.05a# ls -l                                              |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
++---------------------------------------------------------------+
+
+Got key:  l
+isalive() encountered condition where terminated is 0 ...
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 0
+value.x -18
+value.y 253
+value.pressure 45198
+value.x 30
+value.y 210
++---------------------------------------------------------------+
+|bash-2.05a# df                                                 |
+|Filesystem           1k-blocks      Used Available Use% Mounted|
+| on                                                            |
+|rootfs                   63472     47852     15620  75% /      |
+|/dev/root                63472     47852     15620  75% /      |
+|none                      5120         4      5116   0% /tmp   |
+|/dev/mmcsd/disc0/part1   3971584   3304480    667104  83% /tmp/|
+|mnt/sd                                                         |
+|bash-2.05a# ls -la                                             |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                                               |
+|                                               

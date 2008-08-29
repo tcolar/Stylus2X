@@ -1,0 +1,18 @@
+PYTHONHOME=/mnt/sd/python
+export PYTHONHOME
+
+PYTHONPATH=${PYTHONHOME}/lib/python2.4/site-packages:$PYTHONPATH
+PYTHONPATH=${PYTHONHOME}/lib/python24.zip:$PYTHONPATH
+PYTHONPATH=${PYTHONHOME}/lib/python2.4/lib-dynload:$PYTHONPATH
+PYTHONPATH=${PYTHONHOME}/lib/python2.4:$PYTHONPATH
+PYTHONPATH=${PYTHONHOME}:$PYTHONPATH
+PYTHONPATH=./data:$PYTHONPATH
+export PYTHONPATH
+
+LD_LIBRARY_PATH=${PYTHONHOME}/extras:${LD_LIBRARY_PATH}
+export LD_LIBRARY_PATH
+
+/mnt/sd/python/python ./Stylus2x.py 
+
+cd /usr/gp2x
+./gp2xmenu

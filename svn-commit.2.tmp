@@ -1,0 +1,20 @@
+Enhanced keyboard / VT100 vi support etc...
+--This line, and those below, will be ignored--
+
+_M   src
+M    src/FSM.pyc
+M    src/ANSI.py
+M    src/log
+M    src/ANSI.pyc
+M    src/VirtualKB.py
+M    src/VirtualKB.pyc
+M    src/Shell.py
+M    src/Shell.pyc
+M    src/pexpect.pyc
+M    src/Battery.pyc
+M    src/Stylus2x.py
+M    src/screen.py
+M    src/screen.pyc
+M    src/Music.pyc
+M    src/TouchScreen.pyc
+M    src/Pane.pyc
